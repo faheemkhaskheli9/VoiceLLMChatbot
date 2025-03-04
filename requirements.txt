@@ -1,0 +1,8 @@
+fastapi
+langchain-text-splitters
+langchain-community
+langgraph
+langchain[mistralai]
+langchain[groq]
+pypdf
+langchain-core
